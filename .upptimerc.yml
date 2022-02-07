@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://ttpsrts.blob.core.windows.net/embed/assets/logofanalitica.png
   name: Fanalitica Web Status
   introTitle: "**Estado de las Webs de Fanalitica** "
   introMessage: En esta página se puede ver el estado de todas las webs que están bajo la supervisión de Fanalitica.
