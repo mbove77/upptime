@@ -25,7 +25,6 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://mbove77.github.io/$REPO
-
+      href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
