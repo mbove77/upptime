@@ -4,18 +4,20 @@
     "url": "https://www.fanalitica.com",
     "icon": "https://favicons.githubusercontent.com/www.fanalitica.com",
     "slug": "fanalitica",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 348,
     "timeDay": 348,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 0
+    }
   },
   {
     "name": "Atlas",
