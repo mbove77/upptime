@@ -4,7 +4,7 @@
     "url": "https://www.fanalitica.com",
     "icon": "https://favicons.githubusercontent.com/www.fanalitica.com",
     "slug": "fanalitica",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2022-02-14": 0,
       "2022-02-07": 21
     }
   },
@@ -115,11 +116,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mazatlanfc.com",
     "slug": "mazatlan",
     "status": "up",
-    "uptime": "95.17%",
+    "uptime": "95.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "95.17%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "95.27%",
     "time": 243,
     "timeDay": 94,
     "timeWeek": 243,
