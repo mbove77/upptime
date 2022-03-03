@@ -31,19 +31,19 @@
     "url": "https://www.atlasfc.com.mx",
     "icon": "https://favicons.githubusercontent.com/www.atlasfc.com.mx",
     "slug": "atlas",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 614,
     "timeDay": 161,
     "timeWeek": 209,
     "timeMonth": 614,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-03-03": 0,
+      "2022-03-03": 2,
       "2022-02-20": 61
     }
   },
@@ -53,18 +53,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cruzados.cl",
     "slug": "cruzados",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 353,
     "timeDay": 185,
     "timeWeek": 279,
     "timeMonth": 353,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-03-03": 0
+      "2022-03-03": 2
     }
   },
   {
@@ -73,18 +73,18 @@
     "icon": "https://favicons.githubusercontent.com/www.clubpuebla.com",
     "slug": "puebla",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 346,
     "timeDay": 557,
     "timeWeek": 364,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-03-03": 0
+      "2022-03-03": 2
     }
   },
   {
@@ -94,8 +94,8 @@
     "slug": "santos",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 222,
@@ -104,7 +104,7 @@
     "timeMonth": 222,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2022-03-03": 0,
+      "2022-03-03": 2,
       "2022-02-20": 59
     }
   },
@@ -114,18 +114,18 @@
     "icon": "https://favicons.githubusercontent.com/www.lajaibabrava.mx",
     "slug": "jaiba-brava",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.54%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 544,
     "timeDay": 178,
     "timeWeek": 247,
     "timeMonth": 544,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2022-03-03": 0,
+      "2022-03-03": 2,
       "2022-02-20": 151
     }
   },
@@ -135,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/www.mazatlanfc.com",
     "slug": "mazatlan",
     "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
+    "uptime": "98.69%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
     "time": 208,
     "timeDay": 400,
     "timeWeek": 232,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2022-03-03": 0,
+      "2022-03-03": 2,
       "2022-02-09": 350,
       "2022-02-08": 85
     }
