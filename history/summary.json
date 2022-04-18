@@ -4,7 +4,7 @@
     "url": "https://www.fanalitica.com",
     "icon": "https://favicons.githubusercontent.com/www.fanalitica.com",
     "slug": "fanalitica",
-    "status": "up",
+    "status": "down",
     "uptime": "97.51%",
     "uptimeDay": "97.22%",
     "uptimeWeek": "95.51%",
@@ -12,7 +12,7 @@
     "uptimeYear": "97.51%",
     "time": 541,
     "timeDay": 379,
-    "timeWeek": 600,
+    "timeWeek": 603,
     "timeMonth": 593,
     "timeYear": 541,
     "dailyMinutesDown": {
