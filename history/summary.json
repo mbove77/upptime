@@ -4,12 +4,12 @@
     "url": "https://www.fanalitica.com",
     "icon": "https://favicons.githubusercontent.com/www.fanalitica.com",
     "slug": "fanalitica",
-    "status": "up",
-    "uptime": "97.21%",
-    "uptimeDay": "83.71%",
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "83.70%",
     "uptimeWeek": "91.16%",
-    "uptimeMonth": "93.00%",
-    "uptimeYear": "97.21%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "97.31%",
     "time": 520,
     "timeDay": 344,
     "timeWeek": 386,
@@ -44,8 +44,7 @@
       "2022-03-31": 24,
       "2022-03-30": 29,
       "2022-03-29": 299,
-      "2022-03-28": 494,
-      "2022-03-27": 28
+      "2022-03-28": 415
     }
   },
   {
