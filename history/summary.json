@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fanalitica.com.ico",
     "slug": "fanalitica",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.48%",
     "time": 479,
-    "timeDay": 499,
-    "timeWeek": 423,
-    "timeMonth": 440,
+    "timeDay": 464,
+    "timeWeek": 413,
+    "timeMonth": 445,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2023-01-25": 29,
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.atlasfc.com.mx.ico",
     "slug": "atlas",
     "status": "up",
-    "uptime": "97.41%",
+    "uptime": "97.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.53%",
-    "time": 558,
-    "timeDay": 1032,
-    "timeWeek": 1134,
-    "timeMonth": 1144,
-    "timeYear": 553,
+    "uptimeYear": "97.80%",
+    "time": 559,
+    "timeDay": 1256,
+    "timeWeek": 1121,
+    "timeMonth": 1161,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2022-12-17": 22,
       "2022-10-22": 36,
@@ -100,8 +100,7 @@
       "2022-06-16": 36,
       "2022-06-15": 36,
       "2022-03-07": 1181,
-      "2022-03-06": 1440,
-      "2022-03-05": 1440
+      "2022-03-06": 1440
     }
   },
   {
@@ -111,15 +110,15 @@
     "slug": "cruzados",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "35.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "89.55%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "98.54%",
-    "time": 588,
-    "timeDay": 300,
-    "timeWeek": 512,
-    "timeMonth": 634,
-    "timeYear": 605,
+    "uptimeYear": "98.81%",
+    "time": 591,
+    "timeDay": 1900,
+    "timeWeek": 657,
+    "timeMonth": 694,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2023-03-03": 1001,
       "2023-03-02": 53,
@@ -135,8 +134,7 @@
       "2022-05-11": 29,
       "2022-04-29": 32,
       "2022-03-07": 1181,
-      "2022-03-06": 1440,
-      "2022-03-05": 1440
+      "2022-03-06": 1440
     }
   },
   {
@@ -145,18 +143,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubpuebla.com.ico",
     "slug": "puebla",
     "status": "down",
-    "uptime": "86.19%",
+    "uptime": "85.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.25%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "85.55%",
     "time": 390,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 307,
+    "timeMonth": 0,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-03-04": 68,
+      "2023-03-05": 79,
+      "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
@@ -215,8 +214,7 @@
       "2022-03-11": 25,
       "2022-03-08": 871,
       "2022-03-07": 1440,
-      "2022-03-06": 1440,
-      "2022-03-05": 1440
+      "2022-03-06": 1440
     }
   },
   {
@@ -225,16 +223,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubsantos.mx.ico",
     "slug": "santos",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.18%",
-    "time": 498,
-    "timeDay": 767,
-    "timeWeek": 1017,
-    "timeMonth": 1066,
-    "timeYear": 521,
+    "uptimeYear": "98.46%",
+    "time": 499,
+    "timeDay": 1098,
+    "timeWeek": 1008,
+    "timeMonth": 1077,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2022-12-17": 22,
       "2022-11-22": 51,
@@ -247,8 +245,7 @@
       "2022-08-19": 534,
       "2022-06-21": 23,
       "2022-03-07": 1181,
-      "2022-03-06": 1440,
-      "2022-03-05": 1440
+      "2022-03-06": 1440
     }
   },
   {
@@ -257,15 +254,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mazatlanfc.com.ico",
     "slug": "mazatlan",
     "status": "up",
-    "uptime": "91.38%",
+    "uptime": "91.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.74%",
-    "uptimeYear": "91.16%",
-    "time": 171,
-    "timeDay": 288,
-    "timeWeek": 393,
-    "timeMonth": 342,
+    "uptimeMonth": "64.76%",
+    "uptimeYear": "91.44%",
+    "time": 172,
+    "timeDay": 354,
+    "timeWeek": 377,
+    "timeMonth": 358,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2023-02-15": 1116,
@@ -301,8 +298,7 @@
       "2022-06-14": 24,
       "2022-03-11": 25,
       "2022-03-07": 1181,
-      "2022-03-06": 1440,
-      "2022-03-05": 1440
+      "2022-03-06": 1440
     }
   }
 ]
