@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fanalitica.com.ico",
     "slug": "fanalitica",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.48%",
     "time": 479,
-    "timeDay": 466,
-    "timeWeek": 401,
-    "timeMonth": 447,
+    "timeDay": 409,
+    "timeWeek": 421,
+    "timeMonth": 444,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2023-01-25": 29,
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.atlasfc.com.mx.ico",
     "slug": "atlas",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.07%",
-    "time": 560,
-    "timeDay": 834,
-    "timeWeek": 1077,
-    "timeMonth": 1148,
-    "timeYear": 556,
+    "uptimeYear": "98.35%",
+    "time": 561,
+    "timeDay": 1154,
+    "timeWeek": 1110,
+    "timeMonth": 1145,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2022-12-17": 22,
       "2022-10-22": 36,
@@ -98,8 +98,7 @@
       "2022-08-19": 1440,
       "2022-08-18": 276,
       "2022-06-16": 36,
-      "2022-06-15": 36,
-      "2022-03-07": 1181
+      "2022-06-15": 36
     }
   },
   {
@@ -112,11 +111,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.55%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.36%",
     "time": 590,
-    "timeDay": 144,
-    "timeWeek": 579,
-    "timeMonth": 676,
+    "timeDay": 679,
+    "timeWeek": 628,
+    "timeMonth": 650,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2023-03-03": 1001,
@@ -131,8 +130,7 @@
       "2022-05-18": 29,
       "2022-05-17": 10,
       "2022-05-11": 29,
-      "2022-04-29": 32,
-      "2022-03-07": 1181
+      "2022-04-29": 32
     }
   },
   {
@@ -141,7 +139,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubpuebla.com.ico",
     "slug": "puebla",
     "status": "down",
-    "uptime": "85.75%",
+    "uptime": "85.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -152,7 +150,8 @@
     "timeMonth": 0,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-03-06": 71,
+      "2023-03-07": 77,
+      "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
@@ -211,8 +210,7 @@
       "2022-06-14": 1142,
       "2022-04-06": 33,
       "2022-03-11": 25,
-      "2022-03-08": 871,
-      "2022-03-07": 1440
+      "2022-03-08": 871
     }
   },
   {
@@ -221,16 +219,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubsantos.mx.ico",
     "slug": "santos",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.73%",
-    "time": 500,
-    "timeDay": 764,
-    "timeWeek": 954,
-    "timeMonth": 1064,
-    "timeYear": 523,
+    "uptimeYear": "99.00%",
+    "time": 501,
+    "timeDay": 1107,
+    "timeWeek": 1007,
+    "timeMonth": 1061,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2022-12-17": 22,
       "2022-11-22": 51,
@@ -241,8 +239,7 @@
       "2022-08-21": 336,
       "2022-08-20": 1440,
       "2022-08-19": 534,
-      "2022-06-21": 23,
-      "2022-03-07": 1181
+      "2022-06-21": 23
     }
   },
   {
@@ -251,16 +248,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mazatlanfc.com.ico",
     "slug": "mazatlan",
     "status": "up",
-    "uptime": "91.42%",
+    "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.03%",
-    "uptimeYear": "91.71%",
-    "time": 172,
-    "timeDay": 294,
-    "timeWeek": 349,
+    "uptimeMonth": "71.33%",
+    "uptimeYear": "91.99%",
+    "time": 173,
+    "timeDay": 369,
+    "timeWeek": 370,
     "timeMonth": 355,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2023-02-15": 1116,
       "2023-02-14": 1440,
@@ -293,8 +290,7 @@
       "2022-06-16": 1035,
       "2022-06-15": 1095,
       "2022-06-14": 24,
-      "2022-03-11": 25,
-      "2022-03-07": 1181
+      "2022-03-11": 25
     }
   }
 ]
