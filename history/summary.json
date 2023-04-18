@@ -41,8 +41,7 @@
       "2022-04-22": 243,
       "2022-04-21": 149,
       "2022-04-20": 56,
-      "2022-04-19": 23,
-      "2022-04-18": 32
+      "2022-04-19": 23
     }
   },
   {
@@ -120,18 +119,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubpuebla.com.ico",
     "slug": "puebla",
     "status": "down",
-    "uptime": "77.28%",
+    "uptime": "77.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.50%",
+    "uptimeYear": "74.48%",
     "time": 390,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-04-17": 1392,
+      "2023-04-18": 61,
+      "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
