@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.96%",
     "time": 450,
-    "timeDay": 496,
-    "timeWeek": 470,
-    "timeMonth": 607,
+    "timeDay": 585,
+    "timeWeek": 498,
+    "timeMonth": 612,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2023-06-06": 25,
@@ -31,8 +31,7 @@
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
-      "2022-06-17": 1440,
-      "2022-06-16": 376
+      "2022-06-17": 1440
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.53%",
-    "time": 679,
-    "timeDay": 924,
-    "timeWeek": 1028,
-    "timeMonth": 1122,
-    "timeYear": 817,
+    "time": 680,
+    "timeDay": 968,
+    "timeWeek": 1049,
+    "timeMonth": 1123,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2023-06-15": 45,
       "2023-05-22": 16,
@@ -71,8 +70,7 @@
       "2022-08-21": 295,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
-      "2022-08-18": 276,
-      "2022-06-16": 36
+      "2022-08-18": 276
     }
   },
   {
@@ -87,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 609,
-    "timeDay": 690,
-    "timeWeek": 682,
-    "timeMonth": 760,
-    "timeYear": 618,
+    "timeDay": 686,
+    "timeWeek": 726,
+    "timeMonth": 756,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2023-03-03": 1001,
       "2023-03-02": 53,
@@ -108,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clubpuebla.com.ico",
     "slug": "puebla",
     "status": "down",
-    "uptime": "68.09%",
+    "uptime": "68.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -117,9 +115,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 422,
+    "timeYear": 423,
     "dailyMinutesDown": {
-      "2023-06-15": 750,
+      "2023-06-16": 70,
+      "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
@@ -273,8 +272,7 @@
       "2022-08-30": 990,
       "2022-07-19": 64,
       "2022-07-18": 989,
-      "2022-07-17": 40,
-      "2022-06-16": 1064
+      "2022-07-17": 40
     }
   },
   {
@@ -288,11 +286,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.17%",
-    "time": 647,
-    "timeDay": 900,
-    "timeWeek": 991,
+    "time": 648,
+    "timeDay": 893,
+    "timeWeek": 1002,
     "timeMonth": 1082,
-    "timeYear": 799,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2023-06-15": 45,
       "2023-05-22": 16,
@@ -319,18 +317,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mazatlanfc.com.ico",
     "slug": "mazatlan",
     "status": "down",
-    "uptime": "87.12%",
+    "uptime": "87.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.43%",
-    "uptimeYear": "84.10%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "84.09%",
     "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 637,
-    "timeYear": 238,
+    "timeMonth": 0,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-06-15": 750,
+      "2023-06-16": 70,
+      "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
@@ -391,8 +390,7 @@
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
-      "2022-11-14": 912,
-      "2022-06-16": 1035
+      "2022-11-14": 912
     }
   }
 ]
