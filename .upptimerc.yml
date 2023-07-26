@@ -3,18 +3,8 @@ owner: mbove77 # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Fanalitica
-    url: https://www.fanalitica.com
-  - name: Atlas
-    url: https://www.atlasfc.com.mx
-  - name: Cruzados
-    url: https://www.cruzados.cl
-  - name: Puebla
-    url: https://www.clubpuebla.com
-  - name: Santos
-    url: https://www.clubsantos.mx
-  - name: Mazatlan
-    url: https://www.mazatlanfc.com
+  - name: Martin Bove Website
+    url: https://www.martinbove.com.ar
 
 status-website:
   theme: dark
