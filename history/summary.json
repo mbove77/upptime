@@ -4,7 +4,7 @@
     "url": "https://www.martinbove.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.martinbove.com.ar.ico",
     "slug": "martin-bove-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 677,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2024-02-08": 0,
       "2023-10-03": 43,
       "2023-10-02": 8
     }
