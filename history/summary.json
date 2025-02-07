@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martinbove.com.ar.ico",
     "slug": "martin-bove-website",
     "status": "down",
-    "uptime": "79.64%",
+    "uptime": "79.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.72%",
+    "uptimeYear": "68.44%",
     "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 695,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-02-06": 72,
+      "2025-02-07": 72,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -131,8 +132,7 @@
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
-      "2024-10-14": 172,
-      "2024-02-08": 18
+      "2024-10-14": 172
     }
   }
 ]
